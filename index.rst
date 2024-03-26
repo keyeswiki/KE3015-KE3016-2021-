@@ -9,7 +9,7 @@
    docs/1. 课前准备/2. Keyestudio Uno PLUS控制板介绍.md
    docs/2. Arduino 课程/1. Arduino课前准备.md
    docs/3. Mixly 课程/1. 课前准备/1. Mixly 软件的下载、安装和库文件的添加.md
-   docs/
+   docs/4. Scratch 课程/2. KidsBlock软件的使用方法.md
    docs/
    docs/
    docs/
