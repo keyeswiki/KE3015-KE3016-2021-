@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件
 Project 11
 Four_segment_display
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 int a = 6;
 int b = 7;

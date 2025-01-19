@@ -3,7 +3,7 @@
 Keyes 2021入门学习套件 
 Project 12
 12_8_8_Matrix
-http//www.keyestudio.com
+http//www.keyes-robot.com
 */
 int R[] = {2,3,4,5,6,7,8,9};
 int C[] = {10,11,12,13,A0,A1,A2,A3};
